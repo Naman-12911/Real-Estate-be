@@ -1,0 +1,13 @@
+*.pyc
+__pycache__/*
+venv
+env
+db.sqlite3
+db11.sqlite3
+db1.sqlite3
+db2.sqlite3
+dbReal.sqlite3
+/.idea/
+dbRealReal.sqlite3
+Database-real.sqlite3
+media/*
